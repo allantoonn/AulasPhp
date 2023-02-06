@@ -1,20 +1,68 @@
 div#float-menu{
- background-color: lightsteelblue;
+ background-color: black;
 border-radius: 10px;
-
+height: 8%;
 }
 
 div#float-menu ul{
-    text-align: right;
+    text-align: center;
   color: darkgray;
     list-style-type: none;
     margin: 10px;
     overflow: hidden;
-
 }
 
 div#float-menu li{
+ /*  border-right: 3px solid black; */
     display: inline;
-    padding: 8px;
+    padding:20px;
+    float: center;
+}
+div#float-menu li a{
+
+    text-decoration-line: none;
+    font-family: sans-serif;
+    font-size: 22px;
+    color: white;
+
+}
+
+div#float-menu li a:hover{
+    background-color: lightblue;
+    border-radius: 5px;
+    transition:1s;
+}
+
+div#body-sup {
+    background-color: lightblue;
+    height: 20%;
+    border-radius: 5px;
+}
+
+div#body-mid {
+background-color:lightcoral;
+    height: 50%;
+    border-radius: 5px;
+}
+
+div#footer {
+    background-color: lightsalmon;
+height: 10%;
+    border-radius: 5px;
+}
+
+div#body-sup h2 {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+div#body-mid h2{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+div#footer h2{
+    text-align: center;
+    font-family: sans-serif;
 
 }

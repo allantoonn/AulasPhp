@@ -1,17 +1,22 @@
 <link rel="stylesheet" href="css/estilohome.css">
 <div id="float-menu" >
 <ul>
-    <li><a href ="#" > home</a></li>
-    <li><a href ="#" > contato</a></li>
-    <li><a href ="#" > sobre</a></li>
+    <li><a href ="#" > Home</a></li>
+    <li><a href ="#" > Contato</a></li>
+    <li><a href ="#" > Sobre</a></li>
 
     </li>
 </ul>
 </div>
-<div id="bodysup">
-    <h2> Page home</h2>
 
+<div id="body-sup">
+    <h2> Page home</h2>
 </div>
 
+        <div id="body-mid" >
+        <h2> Body mid </h2>
+        </div>
 
-
+<div id="footer" >
+ <h2> Footer</h2>
+    </div>
