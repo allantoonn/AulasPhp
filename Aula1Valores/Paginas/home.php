@@ -1,12 +1,12 @@
-<link rel="stylesheet" href="css/estilohome.css">
-<div id="float-menu" >
-<ul>
-    <li><a href ="#" > Home</a></li>
-    <li><a href ="#" > Contato</a></li>
-    <li><a href ="#" > Sobre</a></li>
 
-    </li>
-</ul>
+   <link rel="stylesheet" href="/Aula1Valores/css/estilohome.css">
+<div id="float-menu" >
+    <ul>
+        <li><a href ="/Aula1Valores/Paginas/home.php" > Home </a></li>
+        <li><a href ="/Aula1Valores/Paginas/contato.php" > Contato </a></li>
+        <li><a href ="/Aula1Valores/Paginas/sobre.php"" > Sobre </a></li>
+
+    </ul>
 </div>
 
 <div id="body-sup">

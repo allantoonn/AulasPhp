@@ -1,23 +1,23 @@
-div#float-menu {
- background-color: black;
-border-radius: 10px;
-height: 8%;
+div#float-menu{
+    background-color: black;
+    border-radius: 10px;
+    height: 8%;
 }
 
 div#float-menu ul{
     text-align: center;
-  color: darkgray;
+    color: darkgray;
     list-style-type: none;
     margin: 10px;
     overflow: hidden;
 }
 
 div#float-menu li{
- /*  border-right: 3px solid black; */
+    /*  border-right: 3px solid black; */
     display: inline;
     padding:20px;
-}
 
+}
 div#float-menu li a{
 
     text-decoration-line: none;
@@ -40,7 +40,7 @@ div#body-sup {
 }
 
 div#body-mid {
-background-color:lightcoral;
+    background-color:lightcoral;
     height: 50%;
     border-radius: 5px;
 }
