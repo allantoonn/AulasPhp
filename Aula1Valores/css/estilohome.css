@@ -1,0 +1,20 @@
+div#float-menu{
+ background-color: lightsteelblue;
+border-radius: 10px;
+
+}
+
+div#float-menu ul{
+    text-align: right;
+  color: darkgray;
+    list-style-type: none;
+    margin: 10px;
+    overflow: hidden;
+
+}
+
+div#float-menu li{
+    display: inline;
+    padding: 8px;
+
+}
